@@ -27,3 +27,6 @@ Build (Windows)
 py -m pip install pyinstaller openpyxl
 
 py -m PyInstaller --onefile --windowed --name BTCToolsIniPatcher btctools_ini_patcher_gui.py
+
+<img width="818" height="548" alt="image" src="https://github.com/user-attachments/assets/24e57a3a-b82f-401b-991f-8076039a3967" />
+
